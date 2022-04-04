@@ -1,0 +1,46 @@
+body{
+   background-image: url(./desk1.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    
+   }
+
+#mylist{
+    display: block;
+    position: relative;
+    background-image: url(./pexels-fwstudio-129731.jpg);
+     
+    background-color: brown;
+    height:auto;
+    width: auto;
+    
+}
+input{
+    width: 50%;
+    height: 10%;
+    box-shadow: 0px 0px 5px 2px rgb(105, 222, 243);
+}
+#container{
+   text-align: center;
+}
+li{
+    padding: 1%;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.rem{
+    float:right;
+    right: 10px;
+    color: red;
+    border-radius: 100px;
+    border-color: red;
+}
+footer{
+    color: rgb(243, 118, 45);
+    position: static; 
+    background-color: azure;
+    max-width: 250px;   
+}
